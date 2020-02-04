@@ -1,0 +1,6 @@
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\bin\Debug\maksimumminimumMath.exe.config
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\bin\Debug\maksimumminimumMath.exe
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\bin\Debug\maksimumminimumMath.pdb
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\obj\Debug\maksimumminimumMath.csprojAssemblyReference.cache
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\obj\Debug\maksimumminimumMath.exe
+C:\Users\Windows10\Documents\GitHub\mathmaxmin\maksimumminimumMath\maksimumminimumMath\obj\Debug\maksimumminimumMath.pdb
